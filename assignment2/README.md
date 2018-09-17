@@ -56,7 +56,7 @@ as part of the registration flow.
 When logged into rosettahub:
 
 - Click on an ubuntu 18.04 image, from the "images" set in the rosettahub console (you 
-  may need to scroll down to find this
+  may need to scroll down to find this)
 - That'll ask for a new spot instance, take the defaults but give it a name you'll remember
 - When the spot image is created, it'll appear at the top of the dashboard page
 - Right-click the image and download the SSH private keys. Rename that file to something
@@ -117,7 +117,7 @@ A good looking ``as2-output.bench`` will look like:
 
 ## Upload results to submitty
 
-You should have received a mail with your initial submitty password. Follow
+You will shortly receive a mail with your initial submitty password. Follow
 the instructions from that mail to login to [submitty](https://cs7ns1.scss.tcd.ie/) 
 and change your initial password.
 
