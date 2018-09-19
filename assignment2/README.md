@@ -41,10 +41,10 @@ the link in the email to accept the AWS Educate terms.
 
 1.  After approving the terms, Student receives an email with the following
 	subject: 'AWS Educate Application Approved' with an AWS Promotional credit
-code. Student logs in to RosettaHUB, clicks on Go To AWS Console, searches for
-and clicks on the service named "Billing", clicks on the "Credits" option,
-enters the credit code, the security check and clicks on the button 'Redeem' to 
-get a budget of $100. 
+code. Student logs in to RosettaHUB, clicks on the 'Go To AWS Console' button, 
+searches for and clicks on the service named 'Billing', clicks on the 'Credits' 
+option, enters the credit code, the security check and clicks on the button 
+'Redeem' to get a budget of $100. 
 
 1. You may only have an initial budget of five dollars. In that case, you
 will want to request more budget. You won't need that for this assignment
