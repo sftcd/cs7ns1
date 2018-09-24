@@ -2,6 +2,7 @@
 # CS7NS1/CS4400 Practical 3
 
 The deadline for this assignment is: 20181001. 
+Submissions will be allowed from Sep 25th.
 
 **Late submissions are not allowed.**
 
@@ -9,7 +10,8 @@ The deadline for this assignment is: 20181001.
 
 For this practical, you will be emailed a list of 1000 password hashes
 and are to solve those, finding the passwords for as many as you can.  Every
-hash and password are unique - each password is given to just one student.
+hash and password are unique - each of the (176,000!) passwords I generated
+is given to just one student.
 
 As you solve passwords you can upload your results to submitty, in the  [crack
 some
