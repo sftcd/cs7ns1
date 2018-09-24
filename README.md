@@ -15,3 +15,11 @@ blackboard.
 - The first practical assignment is [assignment2](./assignments/assignment2)
 - The second practical assignment is [practical3](./assignments/practical3)
 	- Apologies if you care deeply about perfect assignment-naming nomenclature:-)
+
+## For students who aren't familiar with Linux...	
+
+Some students may not have played about much or at all with Linux/Ubuntu.
+I covered some introductory material on that topic last year as part of CS2014.
+The repo for that course is [here](https://github.com/sftcd/cs2014) 
+and includes a brief introduction to Ubuntu and the shell that 
+you can see [here](https://down.dsg.cs.tcd.ie/cs2014/examples/shell/README.html).
