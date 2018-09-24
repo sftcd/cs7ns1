@@ -33,6 +33,9 @@ to you!).
 You are deliberately not being given much detail of the password hash format or
 recommendations as to how to solve the problem. Figuring out how to solve a
 problem like this is part of the practical. (But is not hard.)
+Even after you've solved these, I'd encourage you to play about with 
+ways to do it faster and/or cheaper, as that'll be useful for you later
+on.
 
 Where possible, I would recommend not using EC2 instances for development, but
 rather try to break a subset of the hashes locally and when that works you can
@@ -152,7 +155,7 @@ So in summary:
 - The format for the file to upload is described above and
   here's an [example](as3-sample.broken).
 
-Usually with so many students doing an assignments, some tweaks
+Usually with so many students doing an assignment, some tweaks
 to these instructions will be needed, so check back here often
 to see if there have been any updates.
 
