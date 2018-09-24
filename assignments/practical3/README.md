@@ -8,10 +8,11 @@ Submissions will be allowed from Sep 25th.
 
 **Don't forget to stop your instance when you're done!**
 
-For this practical, you will be emailed a list of 1000 password hashes
-and are to solve those, finding the passwords for as many as you can.  Every
-hash and password are unique - each of the (176,000!) passwords I generated
-is given to just one student.
+For this practical, you have been emailed a list of 1000 password hashes and
+are to solve those, finding the passwords for as many as you can.  Every hash
+and password are unique - each of the (176,000!) passwords I generated is given
+to just one student. If you haven't yet seen that mail, **first** check your
+inbox and spam folders, and only then send a mail to Christian to check.
 
 As you solve passwords you can upload your results to submitty, in the  [crack
 some
