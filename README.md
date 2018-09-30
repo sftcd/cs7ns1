@@ -16,6 +16,7 @@ blackboard.
 - The first practical assignment is [assignment2](./assignments/assignment2)
 - The second practical assignment is [practical3](./assignments/practical3)
 	- Apologies if you care deeply about perfect assignment-naming nomenclature:-)
+- [Practical4](./assignments/practical4) involves reversing moar hashes
 
 ## For students who aren't familiar with Linux...	
 
