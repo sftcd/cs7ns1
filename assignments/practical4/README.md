@@ -31,7 +31,7 @@ You can choose whatever technology you want to solve the problem, but this
 assignment is scaled so that:
 
 - you are likely to want to use a [GPU instance](#aws-gpu-instances) 
-- you may want to write code or [scripts](#scripting) to orchestrate solving the problem
+- you may want to write code or [scripts](#scripting-motivations-for) to orchestrate solving the problem
 
 Where possible, I would recommend not using EC2 instances for development, but
 rather try to break a subset of the hashes locally and when that seems to be
