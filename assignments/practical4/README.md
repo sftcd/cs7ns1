@@ -3,6 +3,15 @@
 
 The deadline for this is Monday October 15th.
 
+**bug:** There's a bug in my submitty verification code. Descrypt passwords are
+truncated to eight characters. When a descrypt password in my verifier database
+should be 8 characters, it actually only has 7 characters. (My fault - it's due
+to a scripting bug.) Passwords that are 7 characters or less aren't affected as
+far as I know. The work-around is to drop the rightmost character for all the
+descrypt passwords you upload to submitty, e.g. if the password for some
+descrypt hash is "abcd1234" you should send "abcd123" instead. I sent mail to
+the class about this on 20181004.
+
 **Late submissions are not allowed.**
 
 **Don't forget to stop your instance when you're done!**
