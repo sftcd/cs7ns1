@@ -143,7 +143,8 @@ help us understand how students are getting on with the assignment.
 
 The submission format is the secrets file, which has one ascii-hex secret
 per line. The sample InfernoBall generation code outputs such a file.
-The filename submitted must be called "<something>.secrets"
+The filename submitted must have a file extension of ".secrets", e.g. 
+it might be called "team100.secrets"
 
 For team assignments, any team member may submit and the last submitted
 version will be used for marking.
