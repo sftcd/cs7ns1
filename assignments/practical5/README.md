@@ -6,7 +6,7 @@ The deadline for this is Monday November 19th.
 Submissions will be open from Monday October 29th. You'll get mail before then
 with team assignments and your InfernoBall.
 
-[Intro-slides](./infernol;pdf)
+[Intro-slides](./inferno.pdf)
 
 **DRAFT**
 **Until the submission open date (Oct 29th) consider this a work-in-progress and liable to change**
@@ -48,6 +48,7 @@ lowest layer.
 To get marks you need to submit a file with the recovered secrets succesfully
 used for decryption. You'll get marks for each correct secret found. There are
 some bonus marks for the first team to solve each layer.
+(**Details of bonuses are still being figured out.**)
 
 As always, you can choose whatever technology you want to solve the problem. At
 this point we assume each team will be able to figure out what's best to try.
@@ -67,7 +68,7 @@ sharing](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing) and is based
 on the simple idea that if we have a polynomial ``f()`` of degree k-1, k points
 are all that is needed to reconstruct the formula for the polynomial.  Yet,
 with k-1 points (or fewer), we cannot recover the formula for the polynomial.
-To generate n shares, we simply take n (n>k) points on the polynominal,
+To generate n shares, we simply take n (n>=k) points on the polynominal,
 typically ``f(1),f(2),...,f(n)``, and distribute those. Once k people with
 shares come together, they can re-construct the formula for the polynomial,
 which is the secret.  We normally, (and equivalently), nominate ``f(0)``, as
@@ -83,7 +84,7 @@ Python2.7 version as our reference implementation. That can be installed via:
  
 			$ sudo -H pip install secretsharing  
 
-	There are many other implementations of Shamir sharing available, but, for this
+There are many other implementations of Shamir sharing available, but, for this
 practical, you MUST ensure that whatever implementation you use interoperates
 with that python version, or you won't be able to solve the practical. I'd
 advise just using the python version, unless you have a good reason to prefer
@@ -116,7 +117,7 @@ below, a set of hashes that allow for password recovery and an equally-sized
 set of modified shares to allow recovery of the secret once one has k passwords
 recovered.
 
-## Infernoball k-of-n: what k and n?
+## InfernoBall k-of-n: what k and n?
 
 In our InfernoBalls, the values of k and n are randomly selected at each level. You
 can see n by inspection as you see the n hashes and n modified shares, but you
@@ -126,9 +127,9 @@ need to find the value of k as part of the practical.
 
 As you find secrets you can upload your results to submitty, in the  
 [inferno](https://cs7ns1.scss.tcd.ie/index.php?semester=f18&course=cs7ns1&component=student&gradeable_id=as5)
-gradable.
+gradable. (**Not yet live.**)
 
-Remember that the submitty marks you get (from 10) don't directly
+Remember that the submitty marks you get don't directly
 map to your coursework mark for this assignment, so don't panic if
 you can't solve all 10 levels.
 
@@ -141,7 +142,7 @@ help us understand how students are getting on with the assignment.
 
 The submission format is the secrets file, which has one ascii-hex secret
 per line. The sample InfernoBall generation code outputs such a file.
-The filename submitted must be called "<something>.broken" as before.
+The filename submitted must be called "<something>.secrets"
 
 For team assignments, any team member may submit and the last submitted
 version will be used for marking.
@@ -182,6 +183,7 @@ We'll trust you to follow this guidance and won't try enforce it, but
 we will give some bonus marks to each team that are first to solve
 a level, to try motivate the co-operation we're after:-) Note that we'll
 determine the bonus marks post-facto, after the submission deadline.
+(**Details of bonuses are still being figured out.**)
 
 We'd encourage teams to co-operate to crack hashes by sharing data about
 passwords you've each recovered and the wordlists etc. you've tried, but we'd
@@ -202,9 +204,9 @@ marks for your final report.  IOW, do consider orchestration, and do describe
 how you dealt with, or why you discarded, orchestration in your final report on
 the module.
 
-## Infernoball format and generation code
+## InfernoBall format and generation code
 
-Infernoballs are JSON objects, such as [this](./sample.as5) one. The
+InfernoBalls are JSON objects, such as [this](./sample.as5) one. The
 corresponding set of secrets are [here](./sample.secrets).  
 
 Each layer of an InfernoBall has the following fields:
@@ -258,7 +260,7 @@ So in summary:
 - You'll get an email with your InfernoBall
 - You need to solve as many layers as you can
 - The format for the file to upload is described above
-- Limited Co-operation with other teams is encouraged
+- Limited co-operation with other teams is encouraged
 
 Usually with so many students doing an assignments, some tweaks
 to these instructions will be needed, so check back here often
