@@ -16,7 +16,7 @@ with team assignments and your InfernoBall.
 
 **Don't forget to stop your instances when you're done!**
 
-<img src="Manetti_Everything_Reduced_to_One_Plan_1506_Cornell_CUL_PJM_1004_01.jpg" width="50%"/>
+<img src="Manetti_Everything_Reduced_to_One_Plan_1506_Cornell_CUL_PJM_1004_01.jpg" width="50%" align="middle"/>
 
 (credit: [wikipedia](https://upload.wikimedia.org/wikipedia/commons/1/10/Manetti_Everything_Reduced_to_One_Plan_1506_Cornell_CUL_PJM_1004_01.jpg))
 
