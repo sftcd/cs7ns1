@@ -126,8 +126,8 @@ need to find the value of k as part of the practical.
 
 ## Submission Format
 
-As you find secrets you can upload your results to submitty, in the  
-[inferno](https://cs7ns1.scss.tcd.ie/index.php?semester=f18&course=cs7ns1&component=student&gradeable_id=as5)
+As you find secrets you can upload your results to submitty, in 
+the [inferno](https://cs7ns1.scss.tcd.ie/index.php?semester=f18&course=cs7ns1&component=student&gradeable_id=as5)
 gradable. (**Not yet live.**)
 
 Remember that the submitty marks you get don't directly
