@@ -1,7 +1,7 @@
 
 # Practical assignment 4 - Break moar hashes...
 
-The deadline for this is Monday October 15th.
+The deadline for this is Friday October 22nd.
 
 **bug:** There's a bug in my submitty verification code. Descrypt passwords are
 truncated to eight characters. When a descrypt password in my verifier database
