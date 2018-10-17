@@ -3,8 +3,10 @@
 
 The deadline for this is Monday November 19th.
 
-Submissions will be open from Monday October 29th. You'll get mail before then
-with team assignments and your InfernoBall.
+Submissions will be open from Monday October 29th. You'll get mails before then
+with team assignments and (later) your InfernoBall. The process for assigning
+students to teams and the teams themselves are desribed 
+[here](TeamSelection.md).
 
 [Intro-slides](./inferno.pdf)
 
