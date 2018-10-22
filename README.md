@@ -19,6 +19,7 @@ blackboard.
 - [Practical4](./assignments/practical4) involves reversing moar hashes
 	- There's some status on this on from 20181015 in the [InfernoBall intro](./assignments/practical5/inferno.pdf) slides.
 	- I made a [leaderboard](https://down.dsg.cs.tcd.ie/cs7ns1-leaderboard/) for this that updates every 10 minutes
+		- Suspended updates of that on 20181022, we'll start it again when practical5 is opened.
 - (DRAFT!) [Practical5](./assignments/practical5) is the InfernoBall practical (DRAFT!)
 	- [Team assignments](./assignments/practical5/TeamSelection.md)
 
