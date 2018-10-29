@@ -10,10 +10,6 @@ students to teams and the teams themselves are desribed
 
 [Intro-slides](./inferno.pdf)
 
-**DRAFT**
-**Until the submission open date (Oct 29th) consider this a work-in-progress and liable to change**
-**DRAFT**
-
 **Late submissions are ickky.**
 
 **Don't forget to stop your instances when you're done!**
@@ -50,8 +46,7 @@ lowest layer.
 
 To get marks you need to submit a file with the recovered secrets succesfully
 used for decryption. You'll get marks for each correct secret found. There are
-some bonus marks for the first team to solve each layer.
-(**Details of bonuses are still being figured out.**)
+some bonus marks for the first team to solve each layer, described below.
 
 As always, you can choose whatever technology you want to solve the problem. At
 this point we assume each team will be able to figure out what's best to try.
@@ -130,7 +125,7 @@ need to find the value of k as part of the practical.
 
 As you find secrets you can upload your results to submitty, in 
 the [inferno](https://cs7ns1.scss.tcd.ie/index.php?semester=f18&course=cs7ns1&component=student&gradeable_id=as5)
-gradable. (**Not yet live.**)
+gradable. 
 
 Remember that the submitty marks you get don't directly
 map to your coursework mark for this assignment, so don't panic if
@@ -139,7 +134,7 @@ you can't solve all 10 levels.
 As before, you must upload your entire set of secrets each time, as your
 marks will reflect only your most recent submission.  (That is, the system does
 not remember earlier submissions, it calculates your marks afresh each time.)
-After 20 uploads, points will be deducted for having sent too many
+After 100 uploads, points will be deducted for having sent too many
 submissions.  Once you have found some secrets, do upload those, as that'll
 help us understand how students are getting on with the assignment.
 
@@ -150,6 +145,19 @@ it might be called "team100.secrets"
 
 For team assignments, any team member may submit and the last submitted
 version will be used for marking.
+
+## Scoring
+
+Scores for the practical are not marks for the module, as usual.  We've rounded
+up the max score possible to 9999, just for a laugh.
+
+Each InfernoBall requires solving the same overall number of hashes.  We'll
+give bonuses for solving each level, there are 33 teams, so the first to solve
+a level gets 3x32, second team to solve that level gets 3x31, down to the 2nd
+last team which gets 3x1. The last team get no bonus, sorry;-)  Bonuses are the
+same for all levels. The maximum bonuses a team can get is 960 if they're first
+to solve all levels, so about 10% of the score, if one team are first to all
+levels. 
 
 ## Team work
 
