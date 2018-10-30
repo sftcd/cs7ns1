@@ -18,10 +18,9 @@ blackboard.
 	- Apologies if you care deeply about perfect assignment-naming nomenclature:-)
 - [Practical4](./assignments/practical4) involves reversing moar hashes
 	- There's some status on this on from 20181015 in the [InfernoBall intro](./assignments/practical5/inferno.pdf) slides.
-	- I made a [leaderboard](https://down.dsg.cs.tcd.ie/cs7ns1-leaderboard/) for this that updates every 10 minutes
-		- Suspended updates of that on 20181022, we'll start it again when practical5 is opened.
 - [Practical5](./assignments/practical5) is the InfernoBall practical 
 	- [Team assignments](./assignments/practical5/TeamSelection.md)
+	- I made a [leaderboard](https://down.dsg.cs.tcd.ie/cs7ns1-leaderboard/) for this that updates every hour
 
 ## For students who aren't familiar with Linux...	
 
