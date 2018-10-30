@@ -3,9 +3,9 @@
 
 The deadline for this is Monday November 19th.
 
-Submissions will be open from Monday October 29th. You'll get mails before then
-with team assignments and (later) your InfernoBall. The process for assigning
-students to teams and the teams themselves are desribed 
+Submissions will be open from Monday October 29th. You've gotten mails 
+with team assignments and a link to your InfernoBall. The process for assigning
+students to teams and the teams themselves are described 
 [here](TeamSelection.md).
 
 [Intro-slides](./inferno.pdf)
@@ -192,10 +192,8 @@ I've missed something.
 We'd encourage teams to collaborate to a limited extent for this practial.
 
 We'll trust you to follow this guidance and won't try enforce it, but
-we will give some bonus marks to each team that are first to solve
-a level, to try motivate the co-operation we're after:-) Note that we'll
-determine the bonus marks post-facto, after the submission deadline.
-(**Details of bonuses are still being figured out.**)
+we give some bonus marks to each team that for solving
+a level, to try motivate the co-operation we're after:-) 
 
 We'd encourage teams to co-operate to crack hashes by sharing data about
 passwords you've each recovered and the wordlists etc. you've tried, but we'd
@@ -264,6 +262,9 @@ relevant python file which you can easily find with a bit of work.
 
 1. As before, there are some passwords that are re-used over the entire
 set of passwords used. There shouldn't be any hash value re-used though.
+
+1. Some of the password sources are ones you have seen before. Others
+are new. Each level may use a different source for passwords. 
 
 ## Summary
 
