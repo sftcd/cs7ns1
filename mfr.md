@@ -1,16 +1,16 @@
 
 # CS7NS1/CS4400 Module Final Report
 
-Student name:
-Student number:
-Date: 
+- Student name:
+- Student number:
+- Date: 
 
 ## InfernoBall team self-evaluation
 
-Team number:
-Team members: - list names here
-
-- Insert team member initials in column headers.
+- Team number:
+- Team members: - list names here
+- Insert team member names/initials in column headers 
+	of table below
 - Effort must be high/medium/low/zero
 - Effectiveness must be high/medium/low/zero
 
