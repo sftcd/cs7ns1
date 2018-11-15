@@ -5,6 +5,7 @@ Public course materials for CS7NS1/CS4400
 - Ciaran's [intro](lectures/intro.pdf) slides. 
 - Stephen's [intro](lectures/assignments-intro.pdf) to the assignments.
 - Stephen's lecture [about passwords](lectures/about-passwords.pdf)
+- Stephen's lecture [on failing](lectures/failing.pdf)
 - [More on practicals](./lectures/practical-status.pdf)
 - Other [lecture materials](./lectures)
 
