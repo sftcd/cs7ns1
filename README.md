@@ -27,6 +27,7 @@ blackboard.
 	- If you think I'm bad - check [this](https://www.theregister.co.uk/2018/10/31/twitter_thumbnail_code/) - awesome!
 - Some slides on the module final report and how we'll be
   [marking](./assignments/practical-marking.pdf) stuff with a few **deadlines**
+	- Module final report template is [here](mfr.md)
 	- Module final report and survey deadlines are both **Dec 7th**
 
 ## For students who aren't familiar with Linux...	
