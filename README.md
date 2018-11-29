@@ -29,7 +29,8 @@ blackboard.
 - Some slides on the module final report and how we'll be
   [marking](./assignments/practical-marking.pdf) stuff with a few **deadlines**
 	- Module final report template is [here](mfr.md)
-	- Module final report and survey deadlines are both **Dec 7th**
+	- Module final report and survey deadlines are both ~~Dec 7th~~
+		- **Change of deadline: new deadline Dec 18th**
 
 ## For students who aren't familiar with Linux...	
 
